@@ -14,7 +14,7 @@ import {
 import YouTube, { YouTubeStandaloneIOS, YouTubeStandaloneAndroid } from 'react-native-youtube';
 
 // API CREDENTIALS
-const YOUTUBE_API_KEY = 'AIzaSyAD89jHIxIOaoNbWRJjEjxple8_y2orWXs';
+const YOUTUBE_API_KEY = '';
 const { width: DEVICE_WIDTH, height: DEVICE_HEIGHT } = Dimensions.get('window');
 const VIDEO_CONTAINER_HEIGHT = DEVICE_HEIGHT * 2.0 / 5.0 - FONT_SIZE * 2;
 const FONT_SIZE = 14;

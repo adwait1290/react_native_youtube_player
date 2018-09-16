@@ -11,7 +11,7 @@ class Icon {
     this.module = module;
     this.width = width;
     this.height = height;
-    
+
   }
 }
 
@@ -64,7 +64,7 @@ const PLAYLIST = [
 ]
 
 // CREDENTIALS
-const YOUTUBE_API_KEY = 'AIzaSyAD89jHIxIOaoNbWRJjEjxple8_y2orWXs';
+const YOUTUBE_API_KEY = '';
 // STATIC CONSTANTS
 const ICON_THROUGH_EARPIECE = 'speaker-phone';
 const ICON_THROUGH_SPEAKER = 'speaker';
