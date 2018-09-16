@@ -1,0 +1,32 @@
+{
+  "name": "adwait_video_player",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "jest-expo": "30.0.0",
+    "react-native-scripts": "1.14.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node_modules/.bin/jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^6.3.1",
+    "expo": "^30.0.1",
+    "react": "^16.3.0-alpha.1",
+    "react-native": "0.54.4",
+    "react-native-vector-icons": "^4.5.0",
+    "react-native-youtube": "^1.1.0",
+    "react-navigation": "^1.5.9",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  }
+}
